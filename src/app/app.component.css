@@ -1,0 +1,12 @@
+.pending {
+  color: gray;
+}
+
+.success {
+  color: green;
+}
+
+.danger {
+  font-weight: bold;
+  color: red;
+}
